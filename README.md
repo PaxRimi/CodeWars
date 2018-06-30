@@ -5,5 +5,6 @@ When I level up to 6 Kyu and over in repository shows folder for exercises on co
 
 At every file at the top in comment is contents of exercises, and below is my code with answer.
 Obviously this code must pass every test from codewars site. 
+
 Thanks for reading. 
 Have a nice day!
