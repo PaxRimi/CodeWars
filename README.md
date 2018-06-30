@@ -1,5 +1,5 @@
 Hello everyone! 
-In this repository I plan to add one file every single day with my answer for a Kata form exercises from https://www.codewars.com. 
+In this repository I plan to add one file every single day with my answer for a Kata form https://www.codewars.com. 
 At this moment when I write this I have a 7'th Kyu, so I will be working with a Kata on the same level. 
 When I level up to 6 Kyu and over in repository shows folder for exercises on correct level. 
 
